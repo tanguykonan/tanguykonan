@@ -27,7 +27,7 @@
   <!-- Top Languages + GitHub Stats -->
   <tr>
     <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=tanguykonan&theme=chartreuse-dark&hide_border=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mythique&theme=chartreuse-dark&hide_border=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
     </td>
     <td style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nythique&layout=compact&langs_count=20&show_icons=true&locale=en&theme=chartreuse-dark" alt="Top Languages" style="width: 100%; max-width: 400px;" />
