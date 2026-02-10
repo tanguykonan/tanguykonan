@@ -16,7 +16,7 @@
   <table align="center" style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse;">
      <tr>
        <td colspan="2" style="text-align: center;">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=nythique&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="140"/>  
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanguykonan&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="140"/>  
       </td>
     </tr>
   </table>
@@ -27,10 +27,10 @@
   <!-- Top Languages + GitHub Stats -->
   <tr>
     <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=nythique&theme=chartreuse-dark&hide_border=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tanguykonan&theme=chartreuse-dark&hide_border=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
     </td>
     <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nythique&layout=compact&langs_count=20&show_icons=true&locale=en&theme=chartreuse-dark" alt="Top Languages" style="width: 100%; max-width: 400px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanguykonan&layout=compact&langs_count=20&show_icons=true&locale=en&theme=chartreuse-dark" alt="Top Languages" style="width: 100%; max-width: 400px;" />
     </td>
   </tr>
 
