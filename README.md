@@ -3,33 +3,18 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=I'm+passionate+software+engineering+student+in+Ivory+Cost;DevOps+%7C+Automation+%7C+Infrastructure+as+Code;Full+Stack+Developer+with+a+low-level+mindset.;Turning+complexity+into+clean%2C+maintainable+solutions." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=I'm+passionate+software+engineering+student+in+Ivory+Coast;Full+Stack+Developer+with+a+low-level+mindset.;Turning+complexity+into+clean%2C+maintainable+solutions." alt="Typing SVG"/>
 </div>
 
 <br/>
 
----
-
-## 💡 Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="720"/>
-</div>
-
----
-
 ## 🧭 About Me
 
 ```yaml
-name        : Tanguy Konan
-location    : 🌍 West Africa / France
-focus       : DevOps • Infrastructure • Full Stack
-interests   : Automation, Embedded Systems, Cloud Architecture
-learning    : Kubernetes, Terraform, Advanced CI/CD pipelines
-philosophy  : "Infrastructure should be code. Code should be infrastructure."
+focus       : Full-Stack Web • Mobile • Docker • AI Engineering
+interests   : RAG, LLM Memory Systems, Workflow Automation
+learning    : Kubernetes, DevOps, Scalable AI Systems
 ```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -69,8 +54,6 @@ philosophy  : "Infrastructure should be code. Code should be infrastructure."
 
 </div>
 
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -88,7 +71,6 @@ philosophy  : "Infrastructure should be code. Code should be infrastructure."
 
 </div>
 
----
 
 ## 🌐 Most Used Languages
 
@@ -107,7 +89,6 @@ philosophy  : "Infrastructure should be code. Code should be infrastructure."
 
 </div>
 
----
 
 ## 🏆 Achievements
 
@@ -132,15 +113,11 @@ philosophy  : "Infrastructure should be code. Code should be infrastructure."
 
 </div>
 
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanguykonan&theme=github-compact&hide_border=true&area=true&area_color=58A6FF&color=58A6FF&line=58A6FF&point=ffffff&bg_color=0d1117" alt="Contribution Graph" width="100%"/>
 </div>
-
----
 
 ## 🌐 Let's Connect
 
