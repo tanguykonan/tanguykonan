@@ -120,3 +120,7 @@ learning    : Kubernetes, DevOps, Scalable AI Systems
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 </p>
+
+<p align="center">
+  Thanks for reading my README 🙌
+</p>
