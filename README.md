@@ -8,16 +8,14 @@
 
 <br/>
 
-## 🧭 About Me
-
+## <img src="https://img.icons8.com/fluency/48/1f6fff/user-male-circle.png" width="20"/> About Me
 ```yaml
 focus       : Full-Stack Web • Mobile • Docker • AI Engineering
 interests   : RAG, LLM Memory Systems, Workflow Automation
 learning    : Kubernetes, DevOps, Scalable AI Systems
 ```
 
-## 🛠️ Tech Stack & Tools
-
+## <img src="https://img.icons8.com/ios-filled/50/58A6FF/toolbox.png" width="20"/> Tech Stack & Tools
 <div align="center">
 
 ### Languages
@@ -50,8 +48,7 @@ learning    : Kubernetes, DevOps, Scalable AI Systems
 
 </div>
 
-## 📊 GitHub Statistics
-
+## <img src="https://img.icons8.com/ios-filled/50/58A6FF/combo-chart--v1.png" width="20"/> GitHub Statistics
 <div align="center">
 
 <table>
@@ -68,7 +65,7 @@ learning    : Kubernetes, DevOps, Scalable AI Systems
 </div>
 
 
-## 🌐 Most Used Languages
+## <img src="https://img.icons8.com/ios-filled/50/58A6FF/source-code.png" width="20"/> Most Used Languages
 
 <div align="center">
 
@@ -86,7 +83,7 @@ learning    : Kubernetes, DevOps, Scalable AI Systems
 </div>
 
 
-## 🏆 Achievements
+## <img src="https://img.icons8.com/ios-filled/50/58A6FF/trophy.png" width="20"/> Achievements
 
 <div align="center">
   
@@ -98,13 +95,13 @@ learning    : Kubernetes, DevOps, Scalable AI Systems
   
 </div>
 
-## 📈 Contribution Activity
+## <img src="https://img.icons8.com/ios-filled/50/58A6FF/activity-feed.png" width="20"/> Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanguykonan&theme=github-compact&hide_border=true&area=true&area_color=58A6FF&color=58A6FF&line=58A6FF&point=ffffff&bg_color=0d1117" alt="Contribution Graph" width="100%"/>
 </div>
 
-## 🌐 Let's Connect
+## <img src="https://img.icons8.com/ios-filled/50/58A6FF/share-2.png" width="20"/> Let's Connect
 
 <div align="center">
 
