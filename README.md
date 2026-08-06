@@ -12,7 +12,7 @@
 ```yaml
 focus       : Full-Stack Web • Mobile • Docker • AI Engineering
 interests   : RAG, LLM Memory Systems, Workflow Automation
-learning    : Kubernetes, DevOps, Scalable AI Systems
+learning    : Cloud, DevOps, Scalable AI Systems
 ```
 
 ## <img src="https://img.icons8.com/ios-filled/50/58A6FF/toolbox.png" width="20"/> Tech Stack & Tools
