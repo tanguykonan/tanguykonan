@@ -4,7 +4,7 @@ I'm a Software Developer from [Côte d'Ivoire](https://fr.wikipedia.org/wiki/C%C
 I enjoy working across the whole product, from understanding the problem and designing the architecture to building the interface and running the system in production.
 My work currently revolves around product development, AI systems, software architecture, and developer tooling. I'm particularly interested in agentic systems, RAG, contextual AI, application packaging, and building simple systems that can solve complex problems.
 I believe good software is not about using the most technologies. It's about understanding what needs to be built, making the right trade-offs, and keeping the result simple enough to evolve.
-I'm currently studying Software Engineering while building and experimenting with projects such as [careerlens fr](https://careerlens.fr) and [Box Hub](boxhub.paxiz.org).
+I'm currently studying Software Engineering while building and experimenting with projects such as [careerlens fr](https://careerlens.fr) and [Box Hub](https://boxhub.paxiz.org).
 
 ### What I care about
 
