@@ -29,4 +29,4 @@ Making good developer and user experiences part of the engineering process.
 
 
 
-You can find more about me [on my website or explore what I'm building](tanguykonan.dev) here on GitHub.
+You can find more about me [on my website or explore what I'm building](https://tanguykonan.dev) here on GitHub.
